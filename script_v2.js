@@ -154,7 +154,7 @@ style.innerHTML = `
 }
 
 .instagram-carousel .card .image img{
-  height: 20em;
+  height: 420px;
   width: 100%;
   object-fit: cover;
 }
@@ -282,7 +282,7 @@ style.innerHTML = `
     display: inline-block;
     vertical-align: baseline;
     object-fit: cover;
-    height: 20em;
+    height: 420px;
     width: 100%;
     margin-bottom: -7px;
   }
